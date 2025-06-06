@@ -1,3 +1,5 @@
+# Maybe, one day the developer will won't be to sleepy and he will make Squeak1.1 version. Maybe.
+
 # GuineaPigClicker
 Click on cute guinea pig!
 
